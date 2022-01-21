@@ -1,0 +1,34 @@
+//
+// website-slider.scss
+// Muriel component
+//
+
+.website-slider {
+  position: relative;
+  overflow: hidden;
+  backface-visibility: hidden;
+}
+
+.website-slider-inner {
+  position: relative;
+  overflow: hidden;
+  transition: transform .5s ease 0s;
+}
+
+.website-slider .website-slider-item {
+  position: relative;
+  min-height: 1px;
+  max-height: 100vh;
+  float: left;
+  opacity: 0;
+  user-select: none;
+  transition: opacity .5s ease 0s;
+  -webkit-tap-highlight-color: transparent;
+  backface-visibility: hidden;
+}
+
+.website-slider .website-slider-item.active {
+  max-height: unset;
+  opacity: 1;
+  user-select: auto;
+}

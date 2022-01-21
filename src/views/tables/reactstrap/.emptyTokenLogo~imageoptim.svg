@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 20 20" style="enable-background:new 0 0 20 20;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_00000046300730542656026480000013161354085894785725_);}
+	.st2{fill:#1089C6;}
+</style>
+<g id="Calque_1">
+	<g id="Calque_2_00000126322308326623628210000001018301194131126196_">
+	</g>
+	<g>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0.2799" y1="10" x2="19.7201" y2="10">
+			<stop  offset="0" style="stop-color:#00C2DE"/>
+			<stop  offset="1" style="stop-color:#006CB4"/>
+		</linearGradient>
+		<circle class="st0" cx="10" cy="10" r="9.7"/>
+		
+			<linearGradient id="SVGID_00000056417520846613602170000016523115494837037708_" gradientUnits="userSpaceOnUse" x1="3.3098" y1="10" x2="16.6902" y2="10">
+			<stop  offset="0" style="stop-color:#00C2DE"/>
+			<stop  offset="1" style="stop-color:#006CB4"/>
+		</linearGradient>
+		<circle style="fill:url(#SVGID_00000056417520846613602170000016523115494837037708_);" cx="10" cy="10" r="6.7"/>
+		<circle class="st2" cx="10" cy="10" r="7.8"/>
+	</g>
+</g>
+<g id="Calque_2">
+</g>
+</svg>

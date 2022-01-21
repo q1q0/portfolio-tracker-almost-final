@@ -1,0 +1,20 @@
+// Bootstrap setup
+@import "../vendor/bootstrap/scss/functions";
+
+// Theme functions
+@import "muriel/functions";
+
+// Theme setup
+@import "muriel/variables";
+
+// Custom setup
+@import "user-variables";
+
+// Bootstrap core
+@import '../vendor/bootstrap/scss/bootstrap';
+
+// Theme core
+@import "muriel/core";
+
+// User
+@import "user";
